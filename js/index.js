@@ -13,6 +13,6 @@ for (let i=0; i < 3; i++) {
   ul.appendChild(li);
 }
 
-element.appentChild(ul);
+element.appendChild(ul);
 
 document.body.appendChild(element);
