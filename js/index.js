@@ -15,3 +15,5 @@ for (let i=0; i < 3; i++) {
 
 
 document.body.appendChild(element);
+element.appendChild(ul);
+ul.style.textAlign = 'left';
